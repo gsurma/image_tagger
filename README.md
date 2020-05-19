@@ -6,6 +6,9 @@
 
 Python notebook containing keras multi-label image classifier. It can be used for labeling images with non-exclusive labels like hashtags.
 
+## Python
+[Image Tagger](ImageTagger.ipynb)
+
 ## iOS
 
 Check out the following iOS app that generates trending hashtags given image inputs.
