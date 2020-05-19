@@ -10,6 +10,8 @@ Python notebook containing keras multi-label image classifier. It can be used fo
 
 Check out the following iOS app that generates trending hashtags given image inputs.
 
+<img src="assets/iOS.gif" width="300">
+
 [<img src="assets/appstore.png">](https://apps.apple.com/pl/app/hashtagram/id1510509546)
 
 
