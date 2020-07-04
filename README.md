@@ -6,6 +6,10 @@
 
 Python notebook containing keras multi-label image classifier. It can be used for labeling images with non-exclusive labels like hashtags.
 
+Check out corresponding Medium article:
+
+[Image Tagger - Multi-Label CNN Image Classification](https://medium.com/@gsurma/image-tagger-multi-label-cnn-image-classification-5b0a87f0084d)
+
 ## Python
 
 [ImageTagger](ImageTagger.ipynb)
