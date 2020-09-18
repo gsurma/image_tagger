@@ -37,3 +37,17 @@ Image Tagger was trained on the  [Various Tagged Images](https://www.kaggle.com/
 <img src="assets/5.png" width="300">
 <img src="assets/6.png" width="300">
 <img src="assets/7.png" width="300">
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
